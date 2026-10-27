@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sza
 
-<!--
-**Szaaonly/Szaaonly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Content creator and contributor at Rialo, and web builder.
 
-Here are some ideas to get you started:
+- Contributor @RialoHQ — https://rialo.io
+- Builder, R-DEX — Security Architect
+- Building web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### R-DEX
+AI-powered onchain trading with simple onboarding, gasless transactions, and smart automation.
+
+Live app: https://app.rialodex.xyz/
+
+## Connect
+
+- X: https://x.com/Szaonly666
+- Rialo: https://rialo.io
